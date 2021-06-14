@@ -1,0 +1,57 @@
+# Arabic translations for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-06-04 00:37+0200\n"
+"PO-Revision-Date: 2021-06-04 00:37+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: autoswchApp/content.py:7
+msgid "heading text"
+msgstr ""
+
+#: autoswchApp/content.py:8
+msgid "subheading text"
+msgstr ""
+
+#: autoswchApp/content.py:9
+msgid "lorem ipsum"
+msgstr ""
+
+#: autoswchApp/content.py:10
+msgid "some_link_url"
+msgstr ""
+
+#: autoswchApp/content.py:11
+msgid "some other text"
+msgstr ""
+
+#: autoswchApp/main/routes.py:50 autoswchApp/templates/partials/hero.html:7
+msgid "THE EASY WAY TO BUY AND SELL A CAR ONLINE"
+msgstr ""
+
+#: autoswchApp/templates/index.html:10
+msgid "Vin Decoder"
+msgstr ""
+
+#: autoswchApp/templates/index.html:11
+msgid "Please enter your VIN number below and we will attempt to decode it."
+msgstr ""
+
+#: autoswchApp/templates/login.html:9
+msgid "Welcome to AutoSwch"
+msgstr ""
+
