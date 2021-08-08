@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-04 00:37+0200\n"
-"PO-Revision-Date: 2021-06-04 00:37+0200\n"
+"POT-Creation-Date: 2021-08-08 04:11+0200\n"
+"PO-Revision-Date: 2021-08-08 04:11+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
 "Language-Team: ar <LL@li.org>\n"
@@ -19,39 +19,139 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: autoswchApp/content.py:7
+#: autoswchApp/content.py:7 autoswchApp/content.py:77 autoswchApp/content.py:86
 msgid "heading text"
 msgstr ""
 
-#: autoswchApp/content.py:8
+#: autoswchApp/content.py:8 autoswchApp/content.py:17 autoswchApp/content.py:26
+#: autoswchApp/content.py:78 autoswchApp/content.py:87
 msgid "subheading text"
 msgstr ""
 
-#: autoswchApp/content.py:9
-msgid "lorem ipsum"
+#: autoswchApp/content.py:9 autoswchApp/content.py:18 autoswchApp/content.py:27
+msgid ""
+"Vivamus suscipit tortor eget felis porttitor volutpat. Donec rutrum "
+"congue leo eget malesuada. Pellentesque in ipsum id orci porta dapibus. "
+"Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. "
+"Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. "
+"Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu "
+"erat, accumsan id imperdiet et, porttitor at sem. Sed porttitor lectus "
+"nibh. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. "
+"Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
 msgstr ""
 
-#: autoswchApp/content.py:10
+#: autoswchApp/content.py:10 autoswchApp/content.py:19
+msgid ""
+"Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur "
+"non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non "
+"nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla "
+"sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo "
+"eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+"Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur "
+"sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci "
+"luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit "
+"amet aliquam vel, ullamcorper sit amet ligula. Nulla porttitor accumsan "
+"tincidunt."
+msgstr ""
+
+#: autoswchApp/content.py:11 autoswchApp/content.py:20
+#: autoswchApp/content.py:28 autoswchApp/content.py:81
+#: autoswchApp/content.py:90
 msgid "some_link_url"
 msgstr ""
 
-#: autoswchApp/content.py:11
+#: autoswchApp/content.py:12 autoswchApp/content.py:21
+#: autoswchApp/content.py:29 autoswchApp/content.py:82
+#: autoswchApp/content.py:91
 msgid "some other text"
 msgstr ""
 
-#: autoswchApp/main/routes.py:50 autoswchApp/templates/partials/hero.html:7
+#: autoswchApp/content.py:16
+msgid "2nd heading text"
+msgstr ""
+
+#: autoswchApp/content.py:25
+msgid "Team Card"
+msgstr ""
+
+#: autoswchApp/content.py:32
+msgid "Walter White"
+msgstr ""
+
+#: autoswchApp/content.py:33
+msgid "Chief Executive Officer"
+msgstr ""
+
+#: autoswchApp/content.py:34
+msgid "Explicabo voluptatem mollitia et repellat qui dolorum quasi"
+msgstr ""
+
+#: autoswchApp/content.py:42
+msgid "Sarah Jhonson"
+msgstr ""
+
+#: autoswchApp/content.py:43
+msgid "Product Manager"
+msgstr ""
+
+#: autoswchApp/content.py:44
+msgid "Aut maiores voluptates amet et quis praesentium qui senda para"
+msgstr ""
+
+#: autoswchApp/content.py:52
+msgid "William Anderson"
+msgstr ""
+
+#: autoswchApp/content.py:53
+msgid "CTO"
+msgstr ""
+
+#: autoswchApp/content.py:54
+msgid "Quisquam facilis cum velit laborum corrupti fuga rerum quia"
+msgstr ""
+
+#: autoswchApp/content.py:62
+msgid "Amanda Jepson"
+msgstr ""
+
+#: autoswchApp/content.py:63
+msgid "Accountant"
+msgstr ""
+
+#: autoswchApp/content.py:64
+msgid "Dolorum tempora officiis odit laborum officiis et et accusamus"
+msgstr ""
+
+#: autoswchApp/content.py:79 autoswchApp/content.py:80
+#: autoswchApp/content.py:88 autoswchApp/content.py:89
+msgid "lorem ipsum"
+msgstr ""
+
+#: autoswchApp/main/routes.py:51 autoswchApp/templates/partials/hero.html:7
 msgid "THE EASY WAY TO BUY AND SELL A CAR ONLINE"
 msgstr ""
 
-#: autoswchApp/templates/index.html:10
+#: autoswchApp/templates/index.html:14
 msgid "Vin Decoder"
 msgstr ""
 
-#: autoswchApp/templates/index.html:11
+#: autoswchApp/templates/index.html:15
 msgid "Please enter your VIN number below and we will attempt to decode it."
 msgstr ""
 
 #: autoswchApp/templates/login.html:9
 msgid "Welcome to AutoSwch"
+msgstr ""
+
+#: autoswchApp/templates/partials/hero.html:9
+msgid "Get Started"
+msgstr ""
+
+#: autoswchApp/templates/partials/hero.html:10
+msgid "Watch Video"
+msgstr ""
+
+#: autoswchApp/templates/partials/recent-vehicles.html:4
+msgid "Latest Cars"
 msgstr ""
 
